@@ -1,7 +1,7 @@
 # IOT_Smart_toilet
 Using sensors to monitor the usage of toilets
 
-This is a group project, the other two contributer are Daekyun and Yang.
+This is a group project, JieGH is the team leader, the other two contributers are Daekyun and Yang.
 
 This project used four PIC microcontroller and four sensor board, along with a Raspberry Pi Zero W and a 7-segment display to design a smart toilet system. The system able to monitor how many people had used the toilets, turn on and turn off the room light and heating. all of the data collected from the sensors had been visualized in the IoT cloud platform: DevicePoilet. 
 
