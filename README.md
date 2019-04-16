@@ -9,10 +9,13 @@ CRC check, TDMA.
 
 The C code uploaded are belong to MPLAB project file which can not be executed unless have the approvate project folder files. 
 
-The implenmentation of this project is stated below and demo can be found on Youtube (https://www.youtube.com/watch?v=t-4nnzrQXAY)
+The implenmentation of this project is stated below and demo can be found on Youtube 
+
+https://www.youtube.com/watch?v=t-4nnzrQXAY
 
 ![overview](https://github.com/JieGH/IOT_Smart_toilet/blob/master/pics/implementation.png)
 
+![overview](https://github.com/JieGH/IOT_Smart_toilet/blob/master/pics/system_dirgarm.jpg)
 
 
 The data collected will be uploaded to IOT platfrom and displayed. 
@@ -20,4 +23,5 @@ The data collected will be uploaded to IOT platfrom and displayed.
 
 ![overview](https://github.com/JieGH/IOT_Smart_toilet/blob/master/pics/dp_1.png)
 ![overview](https://github.com/JieGH/IOT_Smart_toilet/blob/master/pics/dp2.png)
+
 
